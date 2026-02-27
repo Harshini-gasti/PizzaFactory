@@ -2,7 +2,7 @@
 
 A Unity game prototype where the player creates pizzas by selecting toppings using raycasting interaction, while the pizza is generated through a step-by-step production system optimized with advanced object pooling.
 
-Gameplay
+         Gameplay
 
 The player interacts with toppings using raycasting and builds a pizza through multiple stages:
 
